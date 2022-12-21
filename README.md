@@ -1,5 +1,5 @@
 # ProjetPython
-Projet python ENSAE "Prédiction des prix immobilier de la région Nouvelle Aquitaine par le Machine Learning", Jacques-Yves Guilbert-Ly, Ismail Jamal-Eddine, Thibault Maillet
+Projet python ENSAE "Prédiction des prix immobiliers de la région Nouvelle Aquitaine par le Machine Learning", Jacques-Yves Guilbert-Ly, Ismail Jamal-Eddine, Thibault Maillet
 
 OBJECTIFS de notre projet :
 
